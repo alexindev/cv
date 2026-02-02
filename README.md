@@ -1,6 +1,8 @@
 # Александр Ерусланов  
 **Backend (Python, Go)**
 
+📬 Telegram: https://t.me/ceoke  
+
 ---
 
 ## О себе
