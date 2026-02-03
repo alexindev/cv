@@ -132,7 +132,7 @@
 
 **Языки:** Python, Go, TypeScript  
 **Backend:** FastAPI, Django, SQLAlchemy, Gin, RabbitMQ, Kafka, gRPC  
-**Базы данных:** PostgreSQL (Patroni), MongoDB, Redis  
+**Базы данных:** PostgreSQL (Patroni), MongoDB, Redis, PgBouncer, Odyssey  
 **DevOps:** Docker, Kubernetes (k8s / k3s), CI/CD, HashiCorp Vault, Keycloak, Proxmox, Nginx, Prometheus, Grafana, Loki  
 **Frontend:** React, TypeScript, Tailwind CSS, TanStack Query  
 **Linux:** systemd, bash, git
